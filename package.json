@@ -1,6 +1,6 @@
 {
   "name": "jsonresume-theme-flat-optimized",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The JSON Resume default theme optimized with break rules and optional address",
   "author": "Mattias Erming, Marco Kaul",
   "repository": {
