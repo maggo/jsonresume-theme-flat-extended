@@ -28,7 +28,7 @@ h4 {
 	margin-top: 0
 }
 section {
-	break-inside: avoid;
+	page-break-inside: avoid;
 	margin-top: 30px;
 }
 li {
