@@ -66,6 +66,15 @@
 				</div>
 			</div>
 			{{/website}}
+			{{#location}}
+			<div class="col-sm-6">
+				<strong>Location</strong>
+				<div class="location">
+					{{address}}<br>
+					{{postalCode}} {{city}} {{countryCode}} {{region}}
+				</div>
+			</div>
+			{{/location}}
 			</div>
 		</div>
 	</section>
